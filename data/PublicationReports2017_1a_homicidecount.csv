@@ -1,0 +1,222 @@
+Region,Sub-region,Country/territory,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015
+Africa,Eastern Africa,Burundi,,,,,, 341 , 376 , 347 , 349 , 451 , 416 , 436 ,
+Africa,Eastern Africa,Comoros,,, 58 ,,,,, 59 ,,,,, 60 
+Africa,Eastern Africa,Djibouti,,, 63 ,,,,, 63 ,,,,, 60 
+Africa,Eastern Africa,Eritrea,,, 382 ,,,,, 389 ,,,,, 390 
+Africa,Eastern Africa,Ethiopia,,," 7,214 ",,,,," 7,419 ",,,,," 7,552 "
+Africa,Eastern Africa,Kenya,," 1,395 "," 1,260 "," 1,286 "," 1,281 "," 1,413 "," 2,218 "," 2,239 "," 2,641 "," 2,761 "," 2,878 "," 2,649 "," 2,648 "
+Africa,Eastern Africa,Madagascar,, 130 , 326 , 872 , 582 , 610 , 141 , 130 ,,,,,
+Africa,Eastern Africa,Malawi, 300 , 411 , 200 , 821 , 690 , 780 , 320 , 520 , 343 , 279 ,,,
+Africa,Eastern Africa,Mauritius,,,,,,, 38 , 33 , 34 ,,,,
+Africa,Eastern Africa,Mayotte,,,, 1 , 27 , 5 , 12 ,,,,,,
+Africa,Eastern Africa,Mozambique," 1,044 "," 1,130 "," 1,089 ", 894 , 849 , 995 , 823 , 875 , 849 ,,,,
+Africa,Eastern Africa,Réunion,, 23 , 25 , 19 , 24 , 18 , 15 ,,,,,,
+Africa,Eastern Africa,Rwanda,,,, 475 , 472 , 438 , 377 , 500 ,,, 500 ,,
+Africa,Eastern Africa,Seychelles, 10 , 6 , 3 , 9 , 5 , 3 , 5 , 2 ,,,,,
+Africa,Eastern Africa,Somalia,,, 517 ,,,,, 636 ,,,,, 599 
+Africa,Eastern Africa,Uganda," 2,136 "," 2,049 "," 2,492 "," 2,696 "," 2,645 "," 2,793 "," 3,233 "," 3,160 "," 3,753 "," 4,066 "," 3,857 "," 4,473 ",
+Africa,Eastern Africa,United Republic of Tanzania,,,,,,,," 3,888 "," 4,149 "," 4,092 "," 3,697 "," 3,902 "," 3,746 "
+Africa,Eastern Africa,Zambia,,,,,, 694 , 812 , 814 ,,,,,
+Africa,Eastern Africa,Zimbabwe," 1,360 "," 1,356 "," 1,350 "," 1,072 ",,,, 711 ,, 981 ,,,
+Africa,Middle Africa,Angola,,," 2,058 ",,,,," 2,227 ",,,,," 2,414 "
+Africa,Middle Africa,Cameroon,,,,,, 776 ," 1,277 ", 999 , 710 , 868 , 636 , 601 ," 1,385 "
+Africa,Middle Africa,Central African Republic,,, 606 ,,,,, 606 ,,,,, 642 
+Africa,Middle Africa,Chad,,," 1,079 ",,,,," 1,151 ",,,,," 1,266 "
+Africa,Middle Africa,Congo,,, 396 ,,,,, 433 ,,,,, 466 
+Africa,Middle Africa,Democratic Republic of the Congo,,," 8,021 ",,,,," 9,213 ",,,,," 10,322 "
+Africa,Middle Africa,Equatorial Guinea,,, 22 ,,,,, 25 ,,,,, 27 
+Africa,Middle Africa,Gabon,,, 154 ,,,,, 143 ,,,,, 155 
+Africa,Middle Africa,Sao Tome and Principe,,,, 4 , 4 , 14 , 5 , 6 , 6 ,,,,
+Africa,Northern Africa,Algeria, 650 , 449 , 204 , 312 , 271 , 328 , 277 , 254 , 280 , 523 , 480 , 577 , 542 
+Africa,Northern Africa,Egypt, 471 , 322 , 522 , 549 , 680 , 967 , 912 ," 1,839 "," 2,703 ",,,,
+Africa,Northern Africa,Libya,,, 212 ,,,,, 192 ,,,,, 156 
+Africa,Northern Africa,Morocco, 510 , 470 , 469 , 498 , 517 , 426 , 432 , 451 , 441 , 383 , 429 , 355 ,
+Africa,Northern Africa,South Sudan,,,,,,,,,," 1,504 ",,,
+Africa,Northern Africa,Sudan,,," 2,399 ",,,,," 2,454 ",,,,," 2,596 "
+Africa,Northern Africa,Tunisia,, 195 , 260 , 249 , 273 , 280 , 255 , 286 ,, 332 ,,,
+Africa,Southern Africa,Botswana, 312 , 259 , 291 , 261 , 280 , 281 , 289 , 303 , 220 ,,,,
+Africa,Southern Africa,Lesotho,,,,, 895 , 752 , 723 , 764 ,,,,,
+Africa,Southern Africa,Namibia,, 352 ,,,, 354 , 388 , 314 , 308 , 388 ,,,
+Africa,Southern Africa,South Africa," 19,824 "," 18,793 "," 18,793 "," 19,202 "," 18,487 "," 18,148 "," 16,834 "," 15,940 "," 15,609 "," 16,211 "," 16,914 "," 17,805 "," 18,673 "
+Africa,Southern Africa,Swaziland, 144 , 146 , 152 , 121 , 170 , 217 , 187 , 208 ,,, 102 ,,
+Africa,Western Africa,Benin,,, 574 ,,,,, 604 ,,,,, 654 
+Africa,Western Africa,Burkina Faso,,, 78 , 90 , 108 , 128 , 98 , 91 , 89 , 117 ,,,
+Africa,Western Africa,Cabo Verde,,,,, 29 , 34 , 38 , 39 , 53 , 56 , 54 , 65 , 46 
+Africa,Western Africa,Côte d'Ivoire,,," 2,696 ",,,,," 2,576 ",,,,," 2,688 "
+Africa,Western Africa,Gambia,,, 142 ,,,,, 166 ,,,,, 181 
+Africa,Western Africa,Ghana, 436 , 452 , 393 , 412 , 399 , 430 , 427 , 422 , 423 ,,,,
+Africa,Western Africa,Guinea,,, 973 ,,,,," 1,019 ",,,,," 1,067 "
+Africa,Western Africa,Guinea-Bissau,,, 161 ,,,,, 163 ,,,,, 169 
+Africa,Western Africa,Liberia,,,,, 100 , 177 , 145 , 129 , 161 , 135 ,,,
+Africa,Western Africa,Mali,,," 1,623 ",,,,," 1,836 ",,,,," 1,905 "
+Africa,Western Africa,Mauritania,,, 388 ,,,,, 392 ,,,,, 416 
+Africa,Western Africa,Niger,,,,,,,,, 831 , 788 ,,,
+Africa,Western Africa,Nigeria,,," 16,423 ",,,,," 16,996 ",,,,," 17,843 "
+Africa,Western Africa,Senegal,,," 1,047 ",,,,," 1,099 ",,,,," 1,105 "
+Africa,Western Africa,Sierra Leone,, 112 , 99 , 101 , 134 , 184 , 158 , 163 , 187 , 113 ,,, 124 
+Africa,Western Africa,Togo,,, 606 ,,,,, 625 ,,,,, 668 
+Americas,Caribbean,Anguilla, 1 , 2 , -   , 5 , 4 , 1 , 1 , -   , -   , 5 , 1 , 4 ,
+Americas,Caribbean,Antigua and Barbuda, 5 , 4 , 3 , 11 , 17 , 16 , 16 , 6 ,, 10 ,,,
+Americas,Caribbean,Aruba, 4 , 2 , 12 , 10 , 6 , 5 , 4 , 4 ,,,,,
+Americas,Caribbean,Bahamas, 50 , 44 , 52 , 61 , 78 , 73 , 87 , 94 , 127 , 111 ,,,
+Americas,Caribbean,Barbados, 33 , 22 , 29 , 35 , 27 , 25 , 19 , 31 , 27 , 22 , 24 , 25 , 31 
+Americas,Caribbean,British Virgin Islands, 2 , 4 ,, 2 ,,,,,,,,,
+Americas,Caribbean,Cayman Islands, 3 , 6 ,, 1 , 2 , 4 , 8 ,,,,,,
+Americas,Caribbean,Cuba, 642 , 660 , 684 , 576 , 568 , 515 , 565 , 505 , 534 ,,,,
+Americas,Caribbean,Dominica, 8 , 8 , 8 , 5 , 7 , 7 , 13 , 15 , 6 ,,,,
+Americas,Caribbean,Dominican Republic," 1,902 "," 2,239 "," 2,394 "," 2,144 "," 2,111 "," 2,394 "," 2,375 "," 2,474 "," 2,513 "," 2,268 ",," 1,810 ",
+Americas,Caribbean,Grenada, 9 , 6 , 11 , 12 , 11 , 16 , 7 , 10 , 4 , 14 , 6 , 8 ,
+Americas,Caribbean,Guadeloupe,, 26 , 23 , 24 , 29 , 32 , 36 ,,,,,,
+Americas,Caribbean,Haiti,,,,, 486 , 498 , 598 , 677 , 914 ," 1,033 ",,,
+Americas,Caribbean,Jamaica, 975 ," 1,471 "," 1,674 "," 1,340 "," 1,584 "," 1,619 "," 1,683 "," 1,447 "," 1,133 "," 1,099 "," 1,200 "," 1,005 "," 1,207 "
+Americas,Caribbean,Martinique,, 19 , 19 , 23 , 23 , 17 , 11 ,,,,,,
+Americas,Caribbean,Montserrat, -   , -   , 1 , 1 ,, 1 ,,,,,,,
+Americas,Caribbean,Puerto Rico, 787 , 797 , 771 , 748 , 731 , 807 , 894 , 977 ,, 978 , 883 , 681 , 584 
+Americas,Caribbean,Saint Kitts and Nevis, 10 , 11 , 8 , 17 , 16 , 23 , 27 , 21 , 34 , 18 ,,,
+Americas,Caribbean,Saint Lucia, 36 , 37 , 41 , 43 , 29 , 39 , 39 , 44 ,, 39 ,,,
+Americas,Caribbean,Saint Vincent and the Grenadines, 18 , 28 , 23 , 13 , 36 , 16 , 20 , 25 , 21 , 28 ,,,
+Americas,Caribbean,Trinidad and Tobago, 229 , 260 , 386 , 371 , 391 , 547 , 507 , 473 , 352 , 380 , 408 , 405 , 420 
+Americas,Caribbean,Turks and Caicos Islands, -   , -   , -   ,,, 2 , 2 ,,,,,,
+Americas,Caribbean,United States Virgin Islands, 31 , 37 , 35 , 43 , 43 , 45 , 50 , 56 ,,,,,
+Americas,Northern America,Bermuda, 2 , 1 , 2 , 3 , 3 , 5 , 6 , 7 , 8 , 6 , 5 , 4 , 4 
+Americas,Northern America,Canada, 551 , 625 , 664 , 607 , 595 , 611 , 610 , 554 , 605 , 548 , 509 , 521 , 604 
+Americas,Northern America,Greenland, 5 , 11 , 10 , 5 , 11 , 13 , 18 , 18 , 10 , 5 , 3 , 12 , 7 
+Americas,Northern America,Saint Pierre and Miquelon,,,, -   , -   , 1 , 1 ,,,,,,
+Americas,Northern America,United States of America," 16,528 "," 16,148 "," 16,740 "," 17,309 "," 17,128 "," 16,465 "," 15,399 "," 14,722 "," 14,661 "," 14,856 "," 14,319 "," 14,164 "," 15,696 "
+Americas,South America,Argentina,,,,,,,,,,,," 3,227 "," 2,837 "
+Americas,South America,Bolivia (Plurinational State of),,, 654 , 598 , 787 , 850 , 835 ," 1,052 "," 1,029 "," 1,270 ",,,
+Americas,South America,Brazil,,,,," 44,625 "," 45,885 "," 44,518 "," 43,272 "," 48,084 "," 53,054 "," 54,163 "," 57,091 "," 55,574 "
+Americas,South America,Chile, 513 ,, 576 , 590 , 616 , 588 , 630 , 541 , 636 , 434 , 556 , 638 ,
+Americas,South America,Colombia," 22,526 "," 19,036 "," 17,086 "," 16,119 "," 15,423 "," 14,911 "," 15,454 "," 15,013 "," 15,803 "," 14,670 "," 15,419 "," 13,343 "," 12,782 "
+Americas,South America,Ecuador," 1,937 "," 2,390 "," 2,121 "," 2,385 "," 2,273 "," 2,607 "," 2,625 "," 2,638 "," 2,345 "," 1,924 "," 1,725 "," 1,309 ",
+Americas,South America,French Guiana,, 58 , 45 , 42 , 28 , 32 , 30 ,,,,,,
+Americas,South America,Guyana, 206 , 131 , 142 , 153 , 115 , 158 , 117 , 140 , 130 , 139 , 155 ,, 149 
+Americas,South America,Paraguay," 1,285 "," 1,209 "," 1,076 ", 934 , 783 , 833 , 821 , 741 , 657 , 649 , 604 , 578 , 617 
+Americas,South America,Peru," 1,316 "," 1,526 "," 3,057 "," 3,141 "," 2,943 "," 3,332 "," 2,969 "," 2,709 "," 1,617 "," 1,958 "," 2,013 "," 2,076 "," 2,247 "
+Americas,South America,Suriname,,, 15 ,,,,, 49 ,,,,, 58 
+Americas,South America,Uruguay, 197 , 194 , 188 , 203 , 194 , 221 , 226 , 205 , 199 , 267 , 260 , 268 , 289 
+Americas,South America,Venezuela (Bolivarian Republic of)," 11,342 "," 9,719 "," 9,964 "," 12,257 "," 13,156 "," 14,589 "," 13,985 "," 13,080 "," 14,098 "," 16,072 ",," 19,030 "," 17,778 "
+Americas,Central America,Belize, 67 , 79 , 81 , 92 , 97 , 103 , 194 , 129 , 124 , 145 , 99 , 121 ,
+Americas,Central America,Costa Rica, 300 , 280 , 335 , 351 , 369 , 512 , 525 , 527 , 474 , 407 , 411 , 477 , 566 
+Americas,Central America,El Salvador," 2,197 "," 2,773 "," 3,778 "," 3,928 "," 3,497 "," 3,179 "," 4,382 "," 3,987 "," 4,371 "," 2,594 "," 2,513 "," 3,921 "," 6,656 "
+Americas,Central America,Guatemala," 4,237 "," 4,507 ",," 5,885 "," 5,781 "," 6,292 "," 6,498 "," 5,960 "," 5,681 "," 5,155 "," 5,253 "," 4,998 ",
+Americas,Central America,Honduras," 4,073 "," 3,639 "," 3,212 "," 3,118 "," 3,588 "," 4,455 "," 5,280 "," 6,236 "," 7,104 "," 7,172 "," 6,431 "," 5,936 "," 5,148 "
+Americas,Central America,Mexico," 10,087 "," 9,329 "," 9,921 "," 10,452 "," 8,867 "," 14,006 "," 19,803 "," 25,757 "," 27,213 "," 25,967 "," 23,063 "," 20,010 "," 20,762 "
+Americas,Central America,Nicaragua, 635 , 646 , 729 , 722 , 714 , 736 , 802 , 785 , 738 , 675 ,,,
+Americas,Central America,Panama, 338 , 308 , 364 , 371 , 444 , 654 , 818 , 759 , 759 , 654 , 663 , 568 , 447 
+Asia,Central Asia,Kyrgyzstan, 421 , 420 , 419 , 422 , 426 , 429 , 419 ," 1,072 ", 494 , 301 , 206 , 216 , 304 
+Asia,Central Asia,Tajikistan,,,, 213 , 155 , 118 , 131 , 155 , 149 , 106 , 117 ,,
+Asia,Central Asia,Turkmenistan,,, 231 ,,,,, 229 ,,,,, 225 
+Asia,Central Asia,Uzbekistan,,, 926 ,,,,, 894 ,,,,, 893 
+Asia,Central Asia,Kazakhstan*," 1,991 "," 2,091 "," 1,804 "," 1,729 "," 1,656 "," 1,807 "," 1,771 "," 1,397 "," 1,420 "," 1,266 "," 1,120 ", 904 , 853 
+Asia,Eastern Asia,China," 24,393 "," 24,711 "," 20,770 "," 17,973 "," 16,119 "," 14,811 "," 14,667 "," 13,410 "," 12,015 "," 11,286 "," 10,640 "," 10,083 ",
+Asia,Eastern Asia,"China, Hong Kong Special Administrative Region", 52 , 45 , 34 , 35 , 18 , 36 , 47 , 35 , 17 , 27 , 62 , 27 , 22 
+Asia,Eastern Asia,"China, Macao Special Administrative Region", 13 , 10 , 7 , 11 , 11 , 4 , 6 , 2 , 4 , 4 , 1 , -   , 1 
+Asia,Eastern Asia,Democratic People's Republic of Korea,,," 1,206 ",,,,," 1,179 ",,,,," 1,110 "
+Asia,Eastern Asia,Japan, 697 , 699 , 643 , 619 , 574 , 646 , 506 , 465 , 442 , 428 , 370 , 395 ,
+Asia,Eastern Asia,Mongolia, 343 , 333 , 398 , 336 , 293 , 212 , 219 , 239 , 266 , 199 , 208 , 218 , 214 
+Asia,Eastern Asia,Republic of Korea,,,,,,,,, 427 , 411 , 342 , 372 ,
+Asia,Eastern Asia,Taiwan Province of China,,,, 228 , 176 , 191 , 181 , 179 ,, 179 , 168 ,, 192 
+Asia,South-Eastern Asia,Brunei Darussalam, 3 , 2 , 2 , 3 , 3 , 1 , 3 , 1 ,,, 2 ,,
+Asia,South-Eastern Asia,Cambodia, 509 , 511 , 448 , 450 , 458 , 343 , 353 , 331 , 268 ,,,,
+Asia,South-Eastern Asia,Indonesia," 1,635 "," 1,419 ",,,," 1,372 "," 1,311 "," 1,058 "," 1,467 "," 1,456 "," 1,386 "," 1,277 ",
+Asia,South-Eastern Asia,Lao People's Democratic Republic,,, 553 ,,,,, 502 ,,,,, 467 
+Asia,South-Eastern Asia,Malaysia, 565 , 497 , 604 , 588 , 652 , 597 , 561 , 540 ,,,,,
+Asia,South-Eastern Asia,Myanmar, 840 , 817 , 743 , 855 , 823 , 870 , 879 , 801 ," 1,055 "," 1,436 "," 1,250 "," 1,348 "," 1,304 "
+Asia,South-Eastern Asia,Singapore, 24 , 21 , 21 , 17 , 18 , 27 , 20 , 19 , 16 , 11 , 17 , 14 , 14 
+Asia,South-Eastern Asia,Thailand," 6,434 "," 4,273 "," 4,806 "," 4,687 "," 4,435 "," 3,974 "," 3,703 "," 3,654 "," 3,307 "," 3,323 "," 2,894 "," 2,649 "," 2,387 "
+Asia,South-Eastern Asia,Timor-Leste,, 23 , 46 , 49 , 62 , 35 , 32 , 39 ,,,,,
+Asia,South-Eastern Asia,Viet Nam," 1,059 "," 1,063 "," 1,053 "," 1,048 "," 1,168 "," 1,092 "," 1,233 "," 1,336 "," 1,358 ",,,,
+Asia,South-Eastern Asia,Philippines*," 6,436 "," 6,344 "," 6,434 "," 6,196 "," 5,739 "," 5,820 "," 6,368 "," 8,897 "," 8,674 "," 8,484 "," 9,153 "," 9,756 ",
+Asia,Southern Asia,Afghanistan,,,,,,," 1,115 ", 983 ," 1,231 "," 1,948 ",,,
+Asia,Southern Asia,Bangladesh," 3,471 "," 3,902 "," 3,592 "," 4,166 "," 3,863 "," 4,099 "," 4,219 "," 3,988 "," 3,966 "," 4,114 "," 4,393 "," 4,514 "," 4,035 "
+Asia,Southern Asia,Bhutan,,,,,, 14 , 10 , 14 , 22 , 29 , 19 , 21 ,
+Asia,Southern Asia,India," 40,029 "," 41,941 "," 41,206 "," 41,426 "," 41,521 "," 41,899 "," 41,542 "," 42,299 "," 43,741 "," 43,355 "," 41,984 "," 41,623 ",
+Asia,Southern Asia,Iran (Islamic Republic of),,," 3,807 ",,,,," 3,873 ",,,,," 3,259 "
+Asia,Southern Asia,Maldives,,,,, 3 , 5 , 6 , 6 , 3 , 10 , 3 ,,
+Asia,Southern Asia,Nepal, 757 , 936 , 913 , 633 , 893 , 889 , 804 , 813 , 786 , 778 , 638 , 639 ,
+Asia,Southern Asia,Pakistan," 9,346 "," 9,719 "," 9,631 "," 10,048 "," 10,556 "," 12,059 "," 12,491 "," 13,208 "," 13,860 "," 13,846 ",,,
+Asia,Southern Asia,Sri Lanka*," 1,310 "," 1,377 "," 1,221 "," 2,045 "," 1,663 "," 2,002 "," 1,099 ", 763 , 732 , 676 , 598 ,,
+Asia,Western Asia,Armenia,, 83 , 58 , 79 , 77 , 97 , 97 , 56 , 71 , 65 , 59 , 72 , 74 
+Asia,Western Asia,Azerbaijan, 183 , 201 , 192 , 190 , 176 , 168 , 164 , 194 ,, 202 , 221 , 236 ,
+Asia,Western Asia,Bahrain, 3 , 7 , 4 , 7 , 4 , 6 , 13 , 11 , 7 ,,,,
+Asia,Western Asia,Cyprus,, 16 , 20 , 15 , 13 , 9 , 19 , 8 , 9 , 22 , 12 , 11 , 15 
+Asia,Western Asia,Georgia, 302 , 298 , 403 , 323 , 330 , 263 , 210 , 187 ,,,, 108 ,
+Asia,Western Asia,Iraq,,," 9,206 "," 8,274 "," 18,796 ",,,,,,,,
+Asia,Western Asia,Iraq (Central Iraq),,,,,," 4,452 "," 2,458 "," 2,553 "," 2,518 "," 2,594 "," 3,228 "," 3,029 ",
+Asia,Western Asia,Iraq (Kurdistan Region),,,,,, 260 , 155 , 205 , 192 , 184 , 180 ,,
+Asia,Western Asia,Israel, 195 , 173 , 166 , 182 , 125 , 136 , 128 , 145 , 151 , 134 ,, 118 , 110 
+Asia,Western Asia,Jordan,,, 67 , 100 , 112 , 120 , 102 , 116 , 141 , 161 , 144 ,,
+Asia,Western Asia,Kuwait,,,,, 59 , 38 , 49 , 60 , 59 , 61 ,,,
+Asia,Western Asia,Lebanon,,,,,, 183 , 145 , 163 , 168 , 194 , 236 , 240 , 231 
+Asia,Western Asia,Oman,,,,, 18 , 18 ,,, 34 ,,,,
+Asia,Western Asia,Qatar,,, 41 ,,,,, 122 ,,,,, 181 
+Asia,Western Asia,Saudi Arabia,,,,,,,,,,,, 283 , 472 
+Asia,Western Asia,State of Palestine, 94 , 145 , 145 ,,, 48 , 44 , 30 , 23 , 26 ,,,
+Asia,Western Asia,Syrian Arab Republic, 405 , 426 , 430 , 446 , 533 , 529 , 476 , 463 ,,,,,
+Asia,Western Asia,Turkey," 2,837 "," 2,914 "," 3,305 "," 3,168 "," 3,599 "," 3,257 "," 3,692 "," 3,064 "," 3,061 "," 3,216 ",,,
+Asia,Western Asia,United Arab Emirates,,,,,,,, 67 , 51 , 69 , 57 , 61 , 60 
+Asia,Western Asia,Yemen, 704 , 646 , 945 , 895 , 850 , 874 , 990 ," 1,099 "," 1,375 "," 1,616 "," 1,703 ",,
+Europe,Eastern Europe,Belarus, 879 , 815 , 825 , 734 , 649 , 541 , 473 , 486 , 373 , 340 , 333 , 340 ,
+Europe,Eastern Europe,Bulgaria, 247 , 244 , 199 , 186 , 177 , 172 , 150 , 148 , 128 , 141 , 109 , 116 , 129 
+Europe,Eastern Europe,Czechia, 163 , 134 , 108 , 130 , 126 , 114 , 94 , 103 , 86 , 105 , 98 , 69 , 79 
+Europe,Eastern Europe,Hungary, 228 , 209 , 164 , 174 , 154 , 181 , 139 , 138 , 145 , 124 , 154 , 146 ,
+Europe,Eastern Europe,Poland, 662 , 633 , 555 , 490 , 525 , 460 , 493 , 436 , 449 , 377 , 298 , 283 , 286 
+Europe,Eastern Europe,Republic of Moldova, 319 , 277 , 296 , 262 , 217 , 236 , 246 , 267 , 304 , 229 , 169 , 130 ,
+Europe,Eastern Europe,Russian Federation,,,,,,,," 22,897 "," 21,506 "," 19,881 "," 18,464 "," 17,414 "," 16,232 "
+Europe,Eastern Europe,Slovakia, 146 , 122 , 106 , 89 , 89 , 94 , 84 , 89 , 96 , 75 , 78 , 72 , 48 
+Europe,Eastern Europe,Ukraine," 3,618 "," 3,475 "," 3,025 "," 2,931 "," 2,639 "," 2,438 "," 2,194 "," 1,988 ",,,,,
+Europe,Eastern Europe,Romania***, 551 , 516 , 457 , 438 , 416 , 470 , 397 , 404 , 335 , 378 , 336 , 298 , 291 
+Europe,Northern Europe,Denmark, 65 , 43 , 53 , 29 , 39 , 54 , 47 , 42 , 46 , 47 , 48 , 73 , 56 
+Europe,Northern Europe,Estonia, 147 , 91 , 113 , 91 , 93 , 84 , 70 , 70 , 65 , 63 , 52 , 41 , 42 
+Europe,Northern Europe,Finland, 103 , 148 , 119 , 119 , 129 , 133 , 120 , 119 , 110 , 88 , 90 , 89 , 88 
+Europe,Northern Europe,Iceland, -   , 3 , 3 , -   , 2 , -   , 1 , 2 , 3 , 1 , 1 , 1 , 3 
+Europe,Northern Europe,Ireland, 45 , 30 , 52 , 62 , 78 , 50 , 56 , 53 , 42 , 54 , 52 , 52 , 30 
+Europe,Northern Europe,Latvia, 202 , 181 , 126 , 128 , 94 , 99 , 108 , 70 , 69 , 97 , 69 , 77 , 81 
+Europe,Northern Europe,Lithuania,, 343 , 372 , 288 , 277 , 298 , 252 , 219 , 211 , 202 , 198 , 159 , 172 
+Europe,Northern Europe,Norway, 51 , 36 , 33 , 33 , 30 , 34 , 29 , 29 , 111 , 27 , 46 , 29 ,
+Europe,Northern Europe,Sweden, 81 , 102 , 83 , 91 , 111 , 82 , 93 , 91 , 81 , 68 , 87 , 87 , 112 
+Europe,Northern Europe,United Kingdom of Great Britain and Northern Ireland," 1,039 ", 983 , 896 , 863 , 873 , 760 , 714 , 753 , 646 , 644 , 602 , 594 ,
+Europe,Southern Europe,Albania,,, 154 , 95 , 105 , 93 , 85 , 127 , 142 , 157 , 124 , 117 , 66 
+Europe,Southern Europe,Andorra,, 1 ,,, -   , 1 , 1 , 1 , 1 , -   , -   , -   , -   
+Europe,Southern Europe,Bosnia and Herzegovina,,,,,,, 71 , 56 , 51 , 63 , 46 , 50 , 57 
+Europe,Southern Europe,Croatia, 67 , 83 , 66 , 68 , 61 , 67 , 49 , 62 , 49 , 51 , 46 , 36 , 37 
+Europe,Southern Europe,Greece, 122 , 111 , 132 , 110 , 130 , 144 , 152 , 176 , 184 , 166 , 153 , 107 , 93 
+Europe,Southern Europe,Italy, 719 , 714 , 610 , 625 , 631 , 615 , 590 , 529 , 552 , 530 , 502 , 475 , 469 
+Europe,Southern Europe,Kosovo (in compliance with UN Security Council Resolution 1244/99),,,,,, 113 , 73 , 106 , 62 , 90 , 41 , 41 , 30 
+Europe,Southern Europe,Malta, -   , 7 , 4 , -   , 4 , 6 , 4 , 4 , 3 , 12 , 7 , 6 , 4 
+Europe,Southern Europe,Montenegro,,,,, 12 , 24 , 21 , 15 , 21 , 17 , 10 , 20 , 17 
+Europe,Southern Europe,Portugal, 149 , 144 , 133 , 155 , 185 , 124 , 130 , 124 , 114 , 122 , 144 , 92 , 100 
+Europe,Southern Europe,San Marino, -   , -   , -   , -   , -   , -   , -   , -   , -   ,,,,
+Europe,Southern Europe,Serbia, 176 , 164 , 147 , 156 , 171 , 140 , 154 , 130 , 135 , 111 , 140 , 118 , 100 
+Europe,Southern Europe,Slovenia, 21 , 27 , 20 , 12 , 24 , 10 , 13 , 15 , 16 , 14 , 12 , 15 , 25 
+Europe,Southern Europe,Spain, 587 , 520 , 518 , 476 , 482 , 407 , 412 , 401 , 385 , 364 , 302 , 323 , 303 
+Europe,Southern Europe,The former Yugoslav Republic of Macedonia, 70 , 49 , 44 , 46 , 42 , 35 , 35 , 43 , 30 , 29 , 22 , 33 ,
+Europe,Western Europe,Austria, 50 , 59 , 54 , 61 , 45 , 58 , 51 , 58 , 75 , 79 , 60 , 42 , 44 
+Europe,Western Europe,France, 987 , 990 , 976 , 879 , 993 ," 1,021 ", 819 , 796 , 856 , 784 , 777 , 792 ," 1,017 "
+Europe,Western Europe,Germany, 859 , 868 , 869 , 808 , 757 , 722 , 803 , 793 , 738 , 659 , 682 , 716 , 682 
+Europe,Western Europe,Liechtenstein, -   , 1 , -   , -   , -   , 1 , -   , 1 , -   , -   , -   , 1 , -   
+Europe,Western Europe,Luxembourg,,,, 7 , 7 , 8 , 5 , 10 , 4 , -   , 1 , 4 ,
+Europe,Western Europe,Monaco,, 1 , 1 , 1 , -   , -   ,,,,,,,
+Europe,Western Europe,Netherlands, 202 , 191 , 174 , 128 , 143 , 150 , 154 , 144 , 143 , 145 , 125 , 123 , 104 
+Europe,Western Europe,Switzerland, 73 , 78 , 75 , 60 , 51 , 54 , 51 , 52 , 46 , 45 , 57 , 41 , 57 
+Europe,Western Europe,Belgium***, 230 , 268 , 221 , 221 , 211 , 203 , 189 , 189 , 214 , 205 , 205 , 208 , 220 
+Oceania,Melanesia,Fiji,,,,, 22 , 30 , 21 , 24 ,, 26 ,,,
+Oceania,Melanesia,New Caledonia,,,, 8 , 12 , 11 , 8 ,,,,,,
+Oceania,Melanesia,Papua New Guinea, 609 , 309 , 603 , 610 , 520 , 603 , 697 , 713 ,,,,,
+Oceania,Melanesia,Solomon Islands,, 20 , 26 , 23 , 26 , 19 ,,,,,,,
+Oceania,Melanesia,Vanuatu,,, 5 ,,,,, 5 ,,,,, 6 
+Oceania,Micronesia,Guam, 8 , 9 , 7 , 11 , 1 , 1 , 5 , 3 , 4 ,,,,
+Oceania,Micronesia,Kiribati,,,,,, 7 , 1 , 4 , 11 , 8 ,,,
+Oceania,Micronesia,Marshall Islands,,,,,,,,,, 2 ,,,
+Oceania,Micronesia,Micronesia (Federated States of),,, 5 ,,,,, 5 ,,,,, 5 
+Oceania,Micronesia,Nauru,,,,,,,,,, 0 ,,,
+Oceania,Micronesia,Palau,,,,,,,,,, 1 ,,,
+Oceania,Polynesia,Cook Islands,,,,,,,,,, 1 ,,,
+Oceania,Polynesia,French Polynesia,,,, 3 , 7 , 9 , 1 ,,,,,,
+Oceania,Polynesia,Niue,,,,,,,,,, 0 ,,,
+Oceania,Polynesia,Samoa,,,,,,, 16 , 16 ,,, 6 ,,
+Oceania,Polynesia,Tonga, 6 , 2 , 4 , 8 , 1 , 4 , 8 , 1 , 2 , 1 ,,,
+Oceania,Polynesia,Tuvalu, -   , -   , -   , -   , -   , -   , -   , 1 , 1 , 2 ,,,
+Oceania,Australia and New Zealand,Australia, 341 , 302 , 259 , 281 , 255 , 261 , 263 , 231 , 248 , 243 , 245 , 243 , 236 
+Oceania,Australia and New Zealand,New Zealand****, 44 , 45 , 61 , 49 , 48 , 51 , 67 , 43 , 39 , 41 , 46 , 41 ,
